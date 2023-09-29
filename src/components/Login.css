@@ -1,0 +1,5 @@
+/* Style the placeholder text for login inputs */
+.input-field::placeholder {
+    color: #ffffff; /* Set the color to white (#ffffff) */
+  }
+  

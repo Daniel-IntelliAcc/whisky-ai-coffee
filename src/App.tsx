@@ -1,12 +1,13 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import Login from './components/Login';
+import CoffeeFlavorsPage from './components/CoffeeFlavorsPage';
 
 function App() {
   return (
     <div className="App">
-      <Login />
+      {/* Your other components and routes */}
+      <CoffeeFlavorsPage />
     </div>
   );
 }
